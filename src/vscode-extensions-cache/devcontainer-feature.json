@@ -1,0 +1,11 @@
+{
+    "id": "vscode-extensions-cache",
+    "version": "0.1.0",
+    "mounts": [
+        {
+            "source": "vscode-extensions-cache-${devcontainerId}",
+            "target": "/vscode-extensions-cache",
+            "type": "volume"
+        }
+    ]
+}
