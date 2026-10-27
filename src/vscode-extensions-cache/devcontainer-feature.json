@@ -1,6 +1,7 @@
 {
     "id": "vscode-extensions-cache",
     "version": "0.1.0",
+    "name": "VSCode Extensions Cache",
     "mounts": [
         {
             "source": "vscode-extensions-cache-${devcontainerId}",
